@@ -20,3 +20,4 @@ You can display it in horizontal way or vertical way, Both are available
 ![HorizontalConfirmMenu](https://github.com/AbodiDawoud/Huge-Console-Library/assets/152935368/6b64b4de-3d45-4282-8b44-2d4664bfc2aa)
 ![VerticalConfirmMenu](https://github.com/AbodiDawoud/Huge-Console-Library/assets/152935368/54faa56f-8c64-4c77-8b47-c3d222f0c3a0)
 
+[PromptError](https://github.com/AbodiDawoud/Huge-Console-Library/assets/152935368/654781d8-ef91-4ab1-9776-ccb35f7f2f5d)
